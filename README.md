@@ -22,7 +22,7 @@ Some of these are finished, others are passable but still a work in progress.
 <br>[Coming soon]
 
 <b>Sexuation Formulas</b>
-<br>[Coming soon]
+<br>17.12.25: Mostly done. Maybe tweak angle of strikethrough.
 
 <b>Graph of Desire</b>
 <br>[Coming soon]
