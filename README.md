@@ -30,4 +30,4 @@ Some of these are finished, others are passable but still a work in progress.
 <br>[Coming soon]
 
 <b>RSI</b>
-<br>17.12.28: Mostly done, still room for some minor adjustments.
+<br>17.12.28: Mostly done. Still room for some minor adjustments.
