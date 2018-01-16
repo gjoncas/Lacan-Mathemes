@@ -18,7 +18,7 @@ Some of these are finished, others are passable but still a work in progress.
 <br>17.12.25: Mostly done. Diagonal hatching renders badly in Adobe Acrobat — fix later.
 
 <b>Schema I</b>
-<br>[Coming soon]
+<br>18.01.17: Mostly done. Maybe make large version.
 
 <b>Sexuation Formulas</b>
 <br>17.12.25: Mostly done. Maybe tweak strikethrough angle.
