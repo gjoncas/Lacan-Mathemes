@@ -24,7 +24,7 @@ Some of these are finished, others are passable but still a work in progress.
 <br>17.12.25: Mostly done. Maybe tweak strikethrough angle.
 
 <b>Graph of Desire</b>
-<br>[Coming soon]
+<br>18.01.17: Mostly done. Still need to design custom arrowhead.
 
 <b>Five Discourses</b>
 <br>[Coming soon]
