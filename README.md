@@ -31,3 +31,18 @@ Some of these are finished, others are passable but still a work in progress.
 
 <b>RSI</b>
 <br>17.12.28: Mostly done. Still room for some minor adjustments.
+
+&nbsp;
+
+## Related Works
+<ul>
+<li>Boucher, G. (2005). “<a href="http://dro.deakin.edu.au/eserv/DU:30003465/boucher-logicalstatus-2005.pdf">The Logical Status of Lacan's ‘Formulae of Sexuation’</a>.” <i>Letter: Lacanian perspectives on psychoanalysis</i> 34, pp. 114-43</li>
+<li>Choi, W. (2012). “Lacan's double battlefront in the 1957–58 seminar: Constructing the graph of desire." <i>Psychoanalysis, Culture & Society</i> 17(3), pp. 244-61</li>
+<li>Eidelzstein, A. (2009). <i>The Graph of Desire; Using the Work of Jacques Lacan</i>. London: Karnac Books.</li>
+<li>Fink, B. (1991). “"There's No Such Thing as a Sexual Relationship": Existence and the Formulas of Sexuation.” <i>Newsletter of the Freudian Field</i> 5(1-2), pp. 59-85</li>
+<li>Kozicki, B. (2011). "<a href="http://return.jls.missouri.edu/Lacan/ReturnVol6/Kozicki_GraphofDesire.pdf">Lacan's Graph of Desire</a>." <i>(Re)-turn</i> 6, pp. 121-34</li>
+<li>Leader, D. (2002). "The Schema L," in Burgoyne, B. (Ed.). (2002). <i>Drawing the Soul: Schemas and Models in Psychoanalysis</i>. London: Karnac Books, pp. 172-89</li>
+<li>Miller, J.-A.; Jauregui, J. (trans.). (2000). “<a href="http://aaaaarg.fail/thing/5a40de639ff37c232c09f91b">Paradigms of Jouissance</a>.” <i>Lacanian Ink</i> 17, pp. 10-46</li>
+<li>Monribot, P. (2013). “<a href="http://www.iclo-nls.org/wp-content/uploads/Pdf/mep%20hurly%2010%20monribot.pdf">“There is no sexual relation” What does it mean? Clinical Consequences of Lacan’s formulae of Sexuation</a>.” <i>Hurly-Burly</i> 10, pp. 148-64</li>
+<li>Wagner (2011). “Lacan avec Greimas; Formalization, Theory, and the ‘Other Side’ of the Study of Culture.” <i>Minnesota Review</i> 77, pp. 62-86</li>
+</ul>
