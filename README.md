@@ -15,13 +15,14 @@ Some of these are finished, others are passable but still a work in progress.
 <br>17.12.25: Finished. Straight apostrophe slightly ugly.
 
 <b>Schema R</b>
-<br>17.12.25: Mostly done. Diagonal hatching renders badly in Adobe Acrobat — fix later.
+<br>17.12.25: Mostly done. Diagonal hatching renders badly in Adobe Acrobat.
 
 <b>Schema I</b>
 <br>18.01.17: Mostly done. Maybe make large version.
 
 <b>Sexuation Formulas</b>
 <br>17.12.25: Mostly done. Maybe tweak strikethrough angle.
+<br>18.01.18: Fixed strikethrough angle.
 
 <b>Graph of Desire</b>
 <br>18.01.17: Mostly done. Still need to design custom arrowhead.
@@ -31,6 +32,7 @@ Some of these are finished, others are passable but still a work in progress.
 
 <b>RSI</b>
 <br>17.12.28: Mostly done. Still room for some minor adjustments.
+<br>18.02.14: Did final touchups.
 
 &nbsp;
 
