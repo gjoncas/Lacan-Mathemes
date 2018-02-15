@@ -27,6 +27,7 @@ Some of these are finished, others are passable but still a work in progress.
 
 <b>Graph of Desire</b>
 <br>18.01.17: Mostly done. Still need to design custom arrowhead.
+<br>18.02.16: Fixed arrowheads.
 
 <b>Four Discourses</b>
 <br>18.01.21: Finished.
