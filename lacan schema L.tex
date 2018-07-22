@@ -1,12 +1,9 @@
 \documentclass{scrartcl}
 \usepackage{tikz}
-\usetikzlibrary{calc,intersections,through,backgrounds,patterns}
 \usetikzlibrary{decorations.markings}
+\tikzset{->-/.style={decoration={markings,mark=at position #1 with {\arrow{>}}},postaction={decorate}}}
 
 \begin{document}
-\tikzset{->-/.style={decoration={
-			markings,
-			mark=at position #1 with {\arrow{>}}},postaction={decorate}}}
 
 %\begin{figure}
 %	\centering
@@ -36,7 +33,6 @@
 %
 \node at (1.61,0.61) {\rotatebox{-45}{{\tiny unconscious}}};
 \node at (0.9,1.1)   {\rotatebox{45}{{\tiny imaginary$\,$relation}}};
-
 \end{tikzpicture}
 %	\caption{Lacan's Schema L}
 %\end{figure}
@@ -69,7 +65,6 @@
 %
 \node at (2.4,0.85) {\rotatebox{-45}{{\scriptsize unconscious}}};
 \node at (1.4,1.65) {\rotatebox{45}{{\scriptsize imaginary$\,$relation}}};
-
 \end{tikzpicture}
 
 \end{document}
