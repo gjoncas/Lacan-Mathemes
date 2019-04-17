@@ -11,28 +11,47 @@ Some of these are finished, others are passable but still a work in progress.
 
 ## Updates
 
-<b>Schema L</b>
+![Schema L](/pics/lacan-schema-l.png)
+<br><b>Schema L</b>
 <br>17.12.25: Finished. Straight apostrophe slightly ugly.
 <br>18.02.15: Fixed apostrophe.
 
-<b>Schema R</b>
+&nbsp;
+
+![Schema R](/pics/lacan-schema-r.png)
+<br><b>Schema R</b>
 <br>17.12.25: Mostly done. Diagonal hatching renders badly in Adobe Acrobat.
 
-<b>Schema I</b>
+&nbsp;
+
+![Schema I](/pics/lacan-schema-i.png)
+<br><b>Schema I</b>
 <br>18.01.17: Mostly done. Maybe make large version.
 
-<b>Sexuation Formulas</b>
+&nbsp;
+
+![sexuation](/pics/lacan-sexuation.png)
+<br><b>Sexuation Formulas</b>
 <br>17.12.25: Mostly done. Maybe tweak strikethrough angle.
 <br>18.01.18: Fixed strikethrough angle.
 
-<b>Graph of Desire</b>
+&nbsp;
+
+![Graph of Desire](/pics/lacan-graph.png)
+<br><b>Graph of Desire</b>
 <br>18.01.17: Mostly done. Still need to design custom arrowhead.
 <br>18.02.16: Fixed arrowheads.
 
-<b>Four Discourses</b>
+&nbsp;
+
+![Four discourses](/pics/lacan-discourse.png)
+<br><b>Four Discourses</b>
 <br>18.01.21: Finished.
 
-<b>RSI</b>
+&nbsp;
+
+![RSI](/pics/lacan-rsi.png)
+<br><b>RSI</b>
 <br>17.12.28: Mostly done. Still room for some minor adjustments.
 <br>18.02.14: Final touchups.
 
