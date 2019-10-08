@@ -57,6 +57,12 @@ Some of these are finished, others are passable but still a work in progress.
 
 &nbsp;
 
+![Santini Cousquer](/pics/santini-cousquer.png)
+<br><b>Schéma de Lacan par Christian Santini et Mathieu Cousquer</b>
+<br>19.10.04: Finished.
+
+&nbsp;
+
 ## Related Works
 <ul>
 <li>Boucher, G. (2005). “<a href="http://dro.deakin.edu.au/eserv/DU:30003465/boucher-logicalstatus-2005.pdf">The Logical Status of Lacan's ‘Formulae of Sexuation’</a>.” <i>Letter: Lacanian perspectives on psychoanalysis</i> 34, pp. 114-43</li>
