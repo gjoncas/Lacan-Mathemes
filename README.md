@@ -57,8 +57,16 @@ Some of these are finished, others are passable but still a work in progress.
 
 &nbsp;
 
+## Updates – Non-Lacan
+
+![Baudouin](/pics/baudouin.png)
+<br><b>Baudouin - <i>De l’instinct à l’esprit</i> (1970), p. 224</b>
+<br>19.10.17: Finished.
+
+&nbsp;
+
 ![Santini Cousquer](/pics/santini-cousquer.png)
-<br><b>Schéma de Lacan par Christian Santini et Mathieu Cousquer</b>
+<br><b>Schéma de Lacan, par Christian Santini et Mathieu Cousquer</b>
 <br>19.10.04: Finished.
 
 &nbsp;
