@@ -65,6 +65,12 @@ Some of these are finished, others are passable but still a work in progress.
 
 &nbsp;
 
+![Benvenuto](/pics/benvenuto-narcissism.png)
+<br><b>Benvenuto - “Freud’s Concept of Narcissism” (<a href="http://www.psychomedia.it/jep/number1/benvenuto1.htm">1995</a>), fig. 2</b>
+<br>19.10.17: Finished.
+
+&nbsp;
+
 ![Santini Cousquer](/pics/santini-cousquer.png)
 <br><b>Schéma de Lacan, par Christian Santini et Mathieu Cousquer</b>
 <br>19.10.04: Finished.
