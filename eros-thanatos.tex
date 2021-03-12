@@ -1,0 +1,61 @@
+\documentclass[border={0.1cm 0.1cm 0.1cm 0.1cm}]{standalone}  %E,S,W,N
+
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usetikzlibrary{arrows, arrows.meta}
+\usepackage{xcolor}
+\definecolor{peach}{RGB}{224,133,100}
+\definecolor{maroon}{RGB}{185,11,6}
+\definecolor{cream}{RGB}{255,255,191} %original background color, not used here
+
+\begin{document}
+	
+	\begin{tikzpicture}[ultra thick]
+	%ORANGE LINES
+	\draw[peach] (-2.25,0.1)--(0,3.97)--(2.25,0.1);
+	\draw[peach] (-1.2,3.2)--(1.3,3.2);
+	\draw[peach] (-2.65,2)--(2.9,2);
+	\draw[peach,dash pattern=on 13 off 10.5] (-3.9,0.625)--(3.9,0.625);
+	\draw[peach,dash pattern=on 13 off 10.5] (-4.2,-0.7)--(4.5,-0.7);
+	%
+	\draw[peach,dash pattern=on 10 off 7] ({4*cos(210)},{4*sin(210)})--(-2.25,0.1);
+	\draw[peach,dash pattern=on 10 off 7] ({4*cos(-30)},{4*sin(-30)})--( 2.25,0.1);
+	%
+	%\draw[peach,densely dotted] (-5,-2)--(5.2,-2);
+	\foreach \i in {0,...,100} \fill[peach] (-5+0.102*\i,-2) circle (1pt);
+	
+	%SIDE LINES
+	\draw[gray!80!black] (-4.05,-2.35)--(-4.05,2.85);
+	\draw[gray!80!black] (-4.05,0)--(-6.3,0);
+	\node[gray!80!black] at (-4.65,0.4) {\bfseries\footnotesize FIRST HAPPENING};
+	\node[gray!80!black,align=left] at (-5.25,-0.55) {\bfseries\footnotesize non-traumatic \\[-0.5mm]\bfseries\footnotesize from without};
+	%
+	\draw[gray!80!black] (4.05,-2.35)--(4.05,2.85);
+	\draw[gray!80!black] (4.05,0)--(6.4,0);
+	\node[gray!80!black] at (4.65,0.4) {\bfseries\footnotesize SECOND HAPPENING};
+	\node[gray!80!black,align=right] at (5.55,-0.55) {\bfseries\footnotesize trivial \\[-0.5mm]\bfseries\footnotesize from within};
+	
+	%MAIN CIRCLE
+	\draw[gray!80!black] (0,0) circle (4cm);
+	
+	%MIDDLE ARROWS
+	\draw[-{Stealth[length=4mm,width=3.5mm]},very thick] (-3.3,-4.2)--(0.2,1.8);
+	\node[maroon] at (-1.75,-0.5) {\rotatebox{60}{\bfseries EROS -- LIFE}};
+	\node at (-1,-1) {\rotatebox{60}{\bfseries binding}};
+	%
+	\draw[-{Stealth[length=8mm,width=7.5mm]},line width=2] (0.59,1.35)--(4.2,-5.45);
+	\node[maroon] at (2.5,-1.5) {\rotatebox{-62}{\bfseries THANATOS -- DEATH DRIVE}};
+	\node at (1.4,-1.2) {\rotatebox{-62}{\bfseries unbinding}};
+	\node at (1.1,-1.4) {\rotatebox{-62}{\bfseries De-Phantasmatization}};
+	
+	%BOTTOM LABELS
+	\node[left] at (-0.5,-5.8) {\bfseries INSTINCTS};
+		\draw[->,>=stealth,thick] (-0.45,-5.8)--(1.1,-5.8);
+	\node[right] at (1.1,-5.8) {\bfseries PHANTASM};
+	\node[left] at (-0.5,-6.6) {\bfseries PHANTASM};
+		\draw[->,>=stealth,thick] (-0.45,-6.6)--(1.1,-6.6);
+	\node[right] at (1.1,-6.6) {\bfseries DRIVES};
+	\end{tikzpicture}
+	
+\end{document}
