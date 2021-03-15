@@ -83,6 +83,12 @@ Some of these are finished, others are passable but still a work in progress.
 
 &nbsp;
 
+![pinto-mobius](/pics/pinto-schema-r.png)
+<br><b>Pinto - “La Réalité psychique dans le schéma R de Lacan” (<a href="https://hal.archives-ouvertes.fr/hal-01451328/file/Schema-R-revu-par-Jean-Jacques-Pinto.pdf">2009</a>)</b>
+<br>21.03.13: Finished.
+
+&nbsp;
+
 ## Related Works
 <ul>
 <li>Boucher, G. (2005). “<a href="http://dro.deakin.edu.au/eserv/DU:30003465/boucher-logicalstatus-2005.pdf">The Logical Status of Lacan's ‘Formulae of Sexuation’</a>.” <i>Letter: Lacanian perspectives on psychoanalysis</i> 34, pp. 114-43</li>
